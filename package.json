@@ -1,0 +1,16 @@
+{
+  "name": "technical_documentation_page",
+  "version": "1.0.0",
+  "description": "this is a JavaScript technical documentation page, that shows you some core JavaScript topics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "technical",
+    "documentation"
+  ],
+  "author": "{name: Oscar Rodriguez, phone: +584248920393}",
+  "license": "ISC"
+}
