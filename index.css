@@ -10,12 +10,11 @@ body {
     max-width: 1024px;
     margin: auto;
     display: flex;
-    background: rgb(2, 255, 2);
+    background: rgb(113, 255, 113);
     padding: .5em;
     position: fixed;
     top: 0;
-    right: 0;
-    left: 0;
+    width: 100vw;
 }
 #coder {
         font-weight: 700;
@@ -95,6 +94,9 @@ h1 {
 @media screen and (min-width:900px) {
     #header {
         justify-content: flex-end;
+    }
+    #coder {
+        margin-right: 2em;
     }
     #nav-bar {
         position: fixed;
