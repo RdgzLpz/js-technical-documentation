@@ -46,7 +46,6 @@ h1 {
 #nav-bar a {
     padding: 20px;
     width: 100%;
-    font-weight: 700;
     text-decoration: none;
     color: #FFF;
 }
@@ -109,6 +108,9 @@ h1 {
     }
     #nav-bar ul {
         height: 350px;
+    }
+    #nav-bar a {
+        font-weight: 700;
     }
     #info {
         margin: 5.3em 2em 0 33%;
